@@ -1,39 +1,35 @@
-<svg height="574" width="720" xmlns="http://www.w3.org/2000/svg">
-<rect height="574" fill="#555" width="720"></rect>
+<svg height="510" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="510" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
-<tspan x="10" y="26">  0.  2017-04-18 09:53:11 +0000   342401 bytes  .</tspan>
-<tspan x="10" y="42">  1.  2017-04-18 09:53:11 +0000     1045 bytes  Gruntfile.js</tspan>
-<tspan x="10" y="58">  2.  2017-04-18 09:53:11 +0000     1062 bytes  LICENSE</tspan>
-<tspan x="10" y="74">  3.  2017-04-18 09:53:11 +0000    15785 bytes  README.md</tspan>
-<tspan x="10" y="90">  4.  2017-04-18 09:53:11 +0000      457 bytes  bower.json</tspan>
-<tspan x="10" y="106">  5.  2017-04-18 09:53:11 +0000      961 bytes  caching/local.py</tspan>
-<tspan x="10" y="122">  6.  2017-04-18 09:53:11 +0000      942 bytes  caching/local.rb</tspan>
-<tspan x="10" y="138">  7.  2017-04-18 09:53:11 +0000     3950 bytes  examples/backbone/backbone.html</tspan>
-<tspan x="10" y="154">  8.  2017-04-18 09:53:11 +0000    49274 bytes  examples/backbone/backbone.js</tspan>
-<tspan x="10" y="170">  9.  2017-04-18 09:53:11 +0000      307 bytes  examples/backbone/cats.css</tspan>
-<tspan x="10" y="186"> 10.  2017-04-18 09:53:11 +0000      307 bytes  examples/common/cats.css</tspan>
-<tspan x="10" y="202"> 11.  2017-04-18 09:53:11 +0000    93867 bytes  examples/common/jquery.js</tspan>
-<tspan x="10" y="218"> 12.  2017-04-18 09:53:11 +0000    35167 bytes  examples/common/underscore.js</tspan>
-<tspan x="10" y="234"> 13.  2017-04-18 09:53:11 +0000     1759 bytes  examples/handlebars/handlebars.html</tspan>
-<tspan x="10" y="250"> 14.  2017-04-18 09:53:11 +0000    49698 bytes  examples/handlebars/handlebars.js</tspan>
-<tspan x="10" y="266"> 15.  2017-04-18 09:53:11 +0000     1411 bytes  examples/multiple/index.html</tspan>
-<tspan x="10" y="282"> 16.  2017-04-18 09:53:11 +0000      331 bytes  examples/nodejs/test.js</tspan>
-<tspan x="10" y="298"> 17.  2017-04-18 09:53:11 +0000     1949 bytes  examples/proxy/index.html</tspan>
-<tspan x="10" y="314"> 18.  2017-04-18 09:53:11 +0000     1273 bytes  examples/proxy/parameterize.html</tspan>
-<tspan x="10" y="330"> 19.  2017-04-18 09:53:11 +0000      938 bytes  examples/simple/gdocs-2016.html</tspan>
-<tspan x="10" y="346"> 20.  2017-04-18 09:53:11 +0000      938 bytes  examples/simple/new-gdocs.html</tspan>
-<tspan x="10" y="362"> 21.  2017-04-18 09:53:11 +0000     1095 bytes  examples/simple/simple.html</tspan>
-<tspan x="10" y="378"> 22.  2017-04-18 09:53:11 +0000     1357 bytes  examples/simple/sorted.html</tspan>
-<tspan x="10" y="394"> 23.  2017-04-18 09:53:11 +0000     1931 bytes  examples/simple/standard.html</tspan>
-<tspan x="10" y="410"> 24.  2017-04-18 09:53:11 +0000     8946 bytes  examples/timeline_setter/timeline_setter.css</tspan>
-<tspan x="10" y="426"> 25.  2017-04-18 09:53:11 +0000     2040 bytes  examples/timeline_setter/timeline_setter.html</tspan>
-<tspan x="10" y="442"> 26.  2017-04-18 09:53:11 +0000    17457 bytes  examples/timeline_setter/timeline_setter.js</tspan>
-<tspan x="10" y="458"> 27.  2017-04-18 09:53:11 +0000     9963 bytes  examples/timeline_setter/underscore.js</tspan>
-<tspan x="10" y="474"> 28.  2017-04-18 09:53:11 +0000     2228 bytes  examples/unfriendly_headers/index.html</tspan>
-<tspan x="10" y="490"> 29.  2017-04-18 09:53:11 +0000     2623 bytes  package.json</tspan>
-<tspan x="10" y="506"> 30.  2017-04-18 09:53:11 +0000     1989 bytes  src/backbone.tabletopSync.js</tspan>
-<tspan x="10" y="522"> 31.  2017-04-18 09:53:11 +0000    18998 bytes  src/tabletop.js</tspan>
-<tspan x="10" y="538"> 32.  2017-04-18 09:53:11 +0000     9750 bytes  src/tabletop.min.js</tspan>
-<tspan x="10" y="554"> 33.  2017-04-18 09:53:11 +0000     2603 bytes  test/sheets.js</tspan>
+<tspan x="10" y="26">  0.  2017-04-25 12:40:39 +0000   305444 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-25 12:40:39 +0000     1045 bytes  Gruntfile.js</tspan>
+<tspan x="10" y="58">  2.  2017-04-25 12:40:39 +0000     1062 bytes  LICENSE</tspan>
+<tspan x="10" y="74">  3.  2017-04-25 12:40:39 +0000    16359 bytes  README.md</tspan>
+<tspan x="10" y="90">  4.  2017-04-25 12:40:39 +0000      457 bytes  bower.json</tspan>
+<tspan x="10" y="106">  5.  2017-04-25 12:40:39 +0000      961 bytes  caching/local.py</tspan>
+<tspan x="10" y="122">  6.  2017-04-25 12:40:39 +0000      942 bytes  caching/local.rb</tspan>
+<tspan x="10" y="138">  7.  2017-04-25 12:40:39 +0000     3950 bytes  examples/backbone/backbone.html</tspan>
+<tspan x="10" y="154">  8.  2017-04-25 12:40:39 +0000    49274 bytes  examples/backbone/backbone.js</tspan>
+<tspan x="10" y="170">  9.  2017-04-25 12:40:39 +0000      307 bytes  examples/backbone/cats.css</tspan>
+<tspan x="10" y="186"> 10.  2017-04-25 12:40:39 +0000      307 bytes  examples/common/cats.css</tspan>
+<tspan x="10" y="202"> 11.  2017-04-25 12:40:39 +0000    93867 bytes  examples/common/jquery.js</tspan>
+<tspan x="10" y="218"> 12.  2017-04-25 12:40:39 +0000    35167 bytes  examples/common/underscore.js</tspan>
+<tspan x="10" y="234"> 13.  2017-04-25 12:40:39 +0000     1759 bytes  examples/handlebars/handlebars.html</tspan>
+<tspan x="10" y="250"> 14.  2017-04-25 12:40:39 +0000    49698 bytes  examples/handlebars/handlebars.js</tspan>
+<tspan x="10" y="266"> 15.  2017-04-25 12:40:39 +0000     1423 bytes  examples/multiple/index.html</tspan>
+<tspan x="10" y="282"> 16.  2017-04-25 12:40:39 +0000      331 bytes  examples/nodejs/test.js</tspan>
+<tspan x="10" y="298"> 17.  2017-04-25 12:40:39 +0000     1949 bytes  examples/proxy/index.html</tspan>
+<tspan x="10" y="314"> 18.  2017-04-25 12:40:39 +0000     1273 bytes  examples/proxy/parameterize.html</tspan>
+<tspan x="10" y="330"> 19.  2017-04-25 12:40:39 +0000      949 bytes  examples/simple/gdocs-2016.html</tspan>
+<tspan x="10" y="346"> 20.  2017-04-25 12:40:39 +0000     1922 bytes  examples/simple/jquery.html</tspan>
+<tspan x="10" y="362"> 21.  2017-04-25 12:40:39 +0000      949 bytes  examples/simple/new-gdocs.html</tspan>
+<tspan x="10" y="378"> 22.  2017-04-25 12:40:39 +0000     1106 bytes  examples/simple/simple.html</tspan>
+<tspan x="10" y="394"> 23.  2017-04-25 12:40:39 +0000     1368 bytes  examples/simple/sorted.html</tspan>
+<tspan x="10" y="410"> 24.  2017-04-25 12:40:39 +0000     2228 bytes  examples/unfriendly_headers/index.html</tspan>
+<tspan x="10" y="426"> 25.  2017-04-25 12:40:39 +0000     2746 bytes  package.json</tspan>
+<tspan x="10" y="442"> 26.  2017-04-25 12:40:39 +0000     1989 bytes  src/backbone.tabletopSync.js</tspan>
+<tspan x="10" y="458"> 27.  2017-04-25 12:40:39 +0000    19107 bytes  src/tabletop.js</tspan>
+<tspan x="10" y="474"> 28.  2017-04-25 12:40:39 +0000    10346 bytes  src/tabletop.min.js</tspan>
+<tspan x="10" y="490"> 29.  2017-04-25 12:40:39 +0000     2603 bytes  test/sheets.js</tspan>
 </text>
 </svg>
