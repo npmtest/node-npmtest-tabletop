@@ -1,6 +1,6 @@
 # npmtest-tabletop
 
-#### test coverage for  [tabletop (v1.5.1)](https://github.com/jsoma/tabletop#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-tabletop.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-tabletop) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-tabletop.svg)](https://travis-ci.org/npmtest/node-npmtest-tabletop)
+#### basic test coverage for  [tabletop (v1.5.2)](https://github.com/jsoma/tabletop#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-tabletop.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-tabletop) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-tabletop.svg)](https://travis-ci.org/npmtest/node-npmtest-tabletop)
 
 #### **Tabletop.js** takes a Google Spreadsheet and makes it easily accessible through JavaScript. With zero dependencies!
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-tabletop/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-tabletop/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-tabletop/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-tabletop/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-tabletop/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-tabletop/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-tabletop/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-tabletop/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-tabletop/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-tabletop/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-tabletop/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-tabletop/build/coverage.html/index.html)
 
@@ -53,14 +53,15 @@
         "grunt-contrib-jshint": "^1.1.0",
         "grunt-contrib-uglify": "^2.0.0",
         "jshint-stylish": "^2.0.0",
-        "mocha": "^3.2.0"
+        "mocha": "^3.2.0",
+        "uglifyjs": "^2.4.10"
     },
     "directories": {
         "example": "examples"
     },
     "dist": {
-        "shasum": "1221e67b59c98347d369bf0711d969580768ed79",
-        "tarball": "https://registry.npmjs.org/tabletop/-/tabletop-1.5.1.tgz"
+        "shasum": "654d484cae4e0e65a1f2077a7bec60da7b7464f3",
+        "tarball": "https://registry.npmjs.org/tabletop/-/tabletop-1.5.2.tgz"
     },
     "engines": {
         "node": ">=0.10.0"
@@ -81,9 +82,11 @@
         "url": "git+https://github.com/jsoma/tabletop.git"
     },
     "scripts": {
-        "test": "node node_modules/mocha/bin/mocha --timeout 5000 && node node_modules/nsp/bin/nsp check"
+        "test": "node node_modules/mocha/bin/mocha --timeout 5000 && node node_modules/nsp/bin/nsp check",
+        "uglify": "node node_modules/uglifyjs/bin/uglifyjs src/tabletop.js > src/tabletop.min.js "
     },
-    "version": "1.5.1"
+    "version": "1.5.2",
+    "bin": {}
 }
 ```
 
